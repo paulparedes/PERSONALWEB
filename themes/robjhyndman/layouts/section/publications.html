@@ -1,0 +1,64 @@
+{{ define "main" }}
+<div class="wrapper">
+  <div class="row">
+    <div style='padding: 1rem 0.9375rem 1rem;'>
+
+      <h3><a href="https://raw.githubusercontent.com/PaulParedes/materiales/master/paulparedes-cv-octubre-2020.pdf" class="badge badge-large">Curriculum Vitae&nbsp;&nbsp; <i class="fa fa-file-pdf-o"></i></a></h3>
+
+      <h3><a href="https://scholar.google.com/citations?user=6Uw7AQcAAAAJ" class="badge badge-large">Google Scholar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="ai ai-google-scholar"></i></a></h3>
+
+      <div style='padding-bottom: 2rem;'></div>
+
+      <h2>Libros</h2>
+
+      <table>
+        <tbody>
+          <tr>
+            <td style="background-color: #faf8f8; border-bottom: 0px;"><a href="/delderecho"><img src="{{ .Site.BaseURL }}img/delderecho.jpg" height=100></a></td>
+            <td style="background-color: #faf8f8; border-bottom: 0px;"><a href="/pruebapresunciones"><img src="{{ .Site.BaseURL }}img/pruebapresunciones.jpg" height=100></a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="column small-12 medium-6">
+      <h2>Artículos en desarrollo no publicados</h2>
+      {{ range (where .Pages "Params.kind" "==" "unpublished").GroupByDate "2006" "desc" }}
+      <div class="row">
+        <div class="column small-2 medium-2">
+          <h3>{{ .Key }}</h3>
+        </div>
+        <div class="column small-10 medium-10">
+          <span style="font-size: 90%">
+           <ul class="compact fa-ul">
+             {{ range .Pages.ByDate.Reverse }}
+             <li style="margin-bottom: 9px;">{{ partial "pub-summary" . }}</li>
+             {{ end }}
+           </ul></span>
+         </div>
+       </div>
+       {{ end }}
+     </div>
+     <div class="column small-12 medium-6">
+      <h2>Artículos y capítulos de libros publicados</h2>
+      {{ range (where .Pages "Params.kind" "!=" "unpublished").GroupByDate "2006" "desc" }}
+      <div class="row">
+        <div class="column small-2 medium-2">
+          <h3>{{ .Key }}</h3>
+        </div>
+        <div class="column small-10 medium-10">
+          <span style="font-size: 90%">
+           <ul class="compact fa-ul">
+             {{ range .Pages.ByDate.Reverse }}
+             <li style="margin-bottom: 9px;">{{ partial "pub-summary" . }}</li>
+             {{ end }}
+           </ul></span>
+         </div>
+       </div>
+       {{ end }}
+     </div>
+   </div>
+ </div>
+ {{ end }}
