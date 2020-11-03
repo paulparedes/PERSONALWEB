@@ -39,7 +39,7 @@ seminars_count = 3
 [[params.social]]
   icon = "building"
   icon_pack = "fa"
-  link = "https://canoparedes.com.pe/"
+  link = "https://canoparedes.netlify.app/"
   text = "Cano Paredes Abogados S.A.C., Lima, Perú."
 
 [[params.social]]
