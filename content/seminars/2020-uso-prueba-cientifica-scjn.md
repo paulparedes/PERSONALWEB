@@ -8,6 +8,8 @@ link: https://raw.githubusercontent.com/PaulParedes/materiales/master/uso-prueba
 
 ## Slides
 
+### Para ver en pantalla completa [pulse aquí <--](https://paulparedes.github.io/SCJN/PRESENTACION-SCJN.html)
+
 <style>
 .resp-container {
     position: relative;
