@@ -19,7 +19,8 @@ unsafe= true
 [params]
 
 # Date format (refer to Go's date format: http://flippinggodateformat.com)
-date_format = "2 January 2006"
+# date_format = "2 January 2006"
+date_format = "02/01/2006"
 
 # Number of posts to show on main page.
 posts_count = 2
