@@ -111,18 +111,18 @@ seminars_count = 3
   url = "/slides/"
   weight = 5
 
-#[[menu.main]]
-#  name = "Cursos"
-#  url = "/teaching/"
-#  weight = 5
+[[menu.main]]
+  name = "Cursos"
+  url = "/teaching/"
+  weight = 6
 
 #[[menu.main]]
 #  name = "Research team"
 #  url = "/research-team/"
-#  weight = 5
+#  weight = 7
 
 [[menu.main]]
   name = "Sobre mí"
   url = "/about/"
-  weight = 7
+  weight = 8
 
