@@ -5,6 +5,12 @@ El curso aborda los temes de la función jurisdiccional, los principios y fundam
 **Slides**
 
  * [**Introducción**](https://paulparedes.github.io/slides/17cea-dt-1.html)
+ 
+   La función jurisdiccional
+   
+ * [**Principios y fundamentos del proceso laboral**](https://paulparedes.github.io/slides/17cea-dt-2.html)
+ 
+   Los prinicipios y fundamentos del proceso laboral
 
 * * *
 
