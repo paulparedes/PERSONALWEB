@@ -10,7 +10,24 @@ El curso aborda los temes de la función jurisdiccional, los principios y fundam
    
  * [**Principios y fundamentos del proceso laboral**](https://paulparedes.github.io/slides/17cea-dt-2.html)
  
-   Los prinicipios y fundamentos del proceso laboral
+   Los principios y fundamentos del proceso laboral
+   
+ * [**Los procesos laborales**](https://paulparedes.github.io/slides/17cea-dt-3.html)
+ 
+   Estudio de los diferentes tipos de procesos laborales regulados en la NLPT
+   
+ * [**Teoría de la prueba**](https://paulparedes.github.io/slides/17cea-dt-4.html)
+ 
+   Fundamentos sobre teoría de la prueba
+   
+ * [**El arbitraje**](https://paulparedes.github.io/slides/17cea-dt-5.html)
+ 
+   Revisión del arbitraje en la negociación colectiva con incidencia en el proceso de impugnación de laudos arbitrales económicos
+   
+ * [**Técnicas de litigación oral**](https://paulparedes.github.io/slides/17cea-dt-6.html)
+ 
+   Crítica y alcances de las llamadas técnicas de litigación oral
+   
 
 * * *
 
