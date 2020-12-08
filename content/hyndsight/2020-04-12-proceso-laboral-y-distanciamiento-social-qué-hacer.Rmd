@@ -32,7 +32,7 @@ authors: []
 
 >"La pandemia a raíz del coronavirus nos ha tomado por sorpresa. Nuestras vidas están cambiando en el modo como nos relacionamos con los otros.  La OMS recomienda el distanciamiento social que consiste en mantener, por lo menos, un metro de distancia entre uno y las demás personas. ¿Cómo afectará este distanciamiento la dinámica de los procesos laborales? El juez Huerta en una reciente publicación[^1] ha puesto el tema sobre el tapete y ha llamado a proponer ideas a fin de discutir las medidas más adecuadas una vez se levante el aislamiento social obligatorio. Estas circunstancias pueden servir no solo para pensar en medidas temporales, sino también en mirar hacia una *justicia en línea*."
 
-Descargue la versión completa del artículo en pdf [AQUÍ](/files/procesos-laborales-pandemia.pdf) 
+Descargue la versión completa del artículo en pdf [AQUÍ](/papers/procesos-laborales-pandemia.pdf) 
 
 
 [^1]: @huerta_rodriguez_proceso_2020 .
