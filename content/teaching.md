@@ -16,9 +16,9 @@ El curso aborda los temes de la función jurisdiccional, los principios y fundam
  
    Estudio de los diferentes tipos de procesos laborales regulados en la NLPT
    
- * [**Teoría de la prueba**](https://paulparedes.github.io/slides/17cea-dt-4.html)
+ * [**Derecho probatorio en la NLPT**](https://paulparedes.github.io/slides/17cea-dt-4.html)
  
-   Fundamentos sobre teoría de la prueba
+   Revisión de las disposiciones sobre prueba en la NLPT
    
  * [**El arbitraje**](https://paulparedes.github.io/slides/17cea-dt-5.html)
  
@@ -26,7 +26,7 @@ El curso aborda los temes de la función jurisdiccional, los principios y fundam
    
  * [**Técnicas de litigación oral**](https://paulparedes.github.io/slides/17cea-dt-6.html)
  
-   Crítica y alcances de las llamadas técnicas de litigación oral
+   Crítica y alcances de las llamadas técnicas de litigación oral. Algunas pautas sobre teoría de la prueba.
    
 
 * * *
