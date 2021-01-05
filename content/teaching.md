@@ -26,7 +26,7 @@ El curso aborda los temes de la función jurisdiccional, los principios y fundam
    
  * [**Técnicas de litigación oral**](https://paulparedes.github.io/slides/17cea-dt-6.html)
  
-   Crítica y alcances de las llamadas técnicas de litigación oral. Algunas pautas sobre teoría de la prueba.
+   Crítica y alcances de las llamadas técnicas de litigación oral. Algunas pautas sobre teoría de la prueba. Verdad absoluta vs. verdad formal, ¿cómo resolverlo?
    
 
 * * *
