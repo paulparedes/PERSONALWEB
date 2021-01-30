@@ -31,6 +31,15 @@ El curso aborda los temes de la función jurisdiccional, los principios y fundam
 
 * * *
 
+# Próximo curso (Curso taller litigación oral, PUCP, enero 2021)
+
+ * [**Prueba y litigación oral**](https://paulparedes.github.io/slides/pucp-2021-tlo-prueba.html)
+ 
+   Derecho probatorio; prueba en sentido general; argumentación sobre hechos; valoración individual y en conjunto; generalizaciones; mapas argumentativos
+
+
+* * *
+
 # Próximo curso (Derecho procesal del trabajo, UNMSM, 2021-1)
 
 
