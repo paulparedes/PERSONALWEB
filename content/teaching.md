@@ -1,3 +1,19 @@
+# Procesos laborales, PUCP, 2021-1
+
+* [**Módulo 1, clase 1**](https://paulparedes.github.io/slides-ah/TSS603-M1C1.html)
+
+Los conflictos laborales. La reforma de los procesos laborales en América Latina.
+
+* * *
+
+# Curso taller litigación oral, PUCP, enero 2021
+
+ * [**Prueba y litigación oral**](https://paulparedes.github.io/slides/pucp-2021-tlo-prueba.html)
+ 
+   Derecho probatorio; prueba en sentido general; argumentación sobre hechos; valoración individual y en conjunto; generalizaciones; mapas argumentativos
+
+* * *
+
 # XVII Curso de Especialización Avanzada en Derecho del Trabajo 2020-02</br>Derecho Colectivo del Trabajo y Derecho Procesal del Trabajo
 
 El curso aborda los temes de la función jurisdiccional, los principios y fundamentos del proceso laboral, estudia los tipos de procesos regulados en la Nueva Ley Procesal del Trabajo, el derecho probatorio y la teoría de la prueba en materia laboral. También se analiza el arbitraje en la negociación colectiva desde el lado del proceso. Finalmente se hace una presentación crítica de las técnicas de litigación oral.
@@ -28,19 +44,8 @@ El curso aborda los temes de la función jurisdiccional, los principios y fundam
  
    Crítica y alcances de las llamadas técnicas de litigación oral. Algunas pautas sobre teoría de la prueba. Verdad absoluta vs. verdad formal, ¿cómo resolverlo?
    
-
-* * *
-
-# Próximo curso (Curso taller litigación oral, PUCP, enero 2021)
-
- * [**Prueba y litigación oral**](https://paulparedes.github.io/slides/pucp-2021-tlo-prueba.html)
- 
-   Derecho probatorio; prueba en sentido general; argumentación sobre hechos; valoración individual y en conjunto; generalizaciones; mapas argumentativos
-
-
 * * *
 
 # Próximo curso (Derecho procesal del trabajo, UNMSM, 2021-1)
-
 
 * * *
