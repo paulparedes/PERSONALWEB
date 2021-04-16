@@ -1,3 +1,11 @@
+# Seminario Girona, abril 2021
+
+* [**Seminario en Máster en Razonamiento Probatorio**]((https://paulparedes.github.io/slides-ah-rojos/paulparedes-seminario-girona.html))
+
+Exposición en el Máster de Razonamiento Probatorio sobre experiencia en el desarrollo del TFM y contenido del trabajo.
+
+* * *
+
 # Procesos laborales, PUCP, 2021-1
 
 * [**Módulo 1, clase 1**](https://paulparedes.github.io/slides-ah/TSS603-M1C1.html)
