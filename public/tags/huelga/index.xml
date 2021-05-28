@@ -9,6 +9,15 @@
     <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://paulparedes.pe/tags/huelga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arbitraje potestativo, huelga y mala fe del empleador</title>
+      <link>https://paulparedes.pe/blog/arbitraje-y-mala-fe/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulparedes.pe/blog/arbitraje-y-mala-fe/</guid>
+      <description>En marzo de 2019 la Dirección General de Trabajo &amp;ndash;el órgano administrativo rector de las relaciones de trabajo del sector privado&amp;ndash; emitió una resolución (la RDG 0035-2019-MTPE/2/14, apoyada en el Informe 537-2019-MTPE/4/8 de la Oficina General de Asesoría Jurídica) en la cual estableció el criterio según el cual una huelga &amp;ndash;en el marco de una negociación colectiva&amp;ndash; resulta improcedente si el empleador solicitó, antes que el sindicato, acudir al arbitraje.</description>
+    </item>
+    
+    <item>
+      <title>Arbitraje potestativo, huelga y mala fe del empleador</title>
       <link>https://paulparedes.pe/hyndsight/arbitraje-y-mala-fe/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -18,11 +27,20 @@
     
     <item>
       <title>Procedimiento de divergencia sobre la comunicación de los servicios mínimos</title>
+      <link>https://paulparedes.pe/blog/divergencia-sobre-la-comunicaci%C3%B3n-de-los-servicios-m%C3%ADnimos/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulparedes.pe/blog/divergencia-sobre-la-comunicaci%C3%B3n-de-los-servicios-m%C3%ADnimos/</guid>
+      <description>{&#34;x&#34;:{&#34;diagram&#34;:&#34;\nsequenceDiagram\nparticipant EMPRESA\nparticipant SINDICATO\nparticipant AUTORIDAD\nparticipant ÓRGANO INDEPENDIENTE\nNote over EMPRESA, SINDICATO: Servicios mínimos: -Número y ocupación trabajadores necesarios -Horarios y turnos -Periodicidad -Oportunidad\nEMPRESA-SINDICATO: Enero, comunica servicios mínimos\nEMPRESA-AUTORIDAD: Enero, comunica servicios mínimos\nSINDICATO-AUTORIDAD: Divergencia: en 30 d.n. presenta informe con observaciones\nSINDICATO-AUTORIDAD: No divergencia: aceptación tácita de la comunicación del empleador\nAUTORIDAD-ÓRGANO INDEPENDIENTE: En 10 d.h. designa al O.I. determinar servicios mínimos\nloop Check\nEMPRESA-EMPRESA: Si empresa no presenta, ver divergencia inmediata anterior\nend\nloop Check\nÓRGANO INDEPENDIENTE-ÓRGANO INDEPENDIENTE: -Comunica si acepta en 10 d.</description>
+    </item>
+    
+    <item>
+      <title>Procedimiento de divergencia sobre la comunicación de los servicios mínimos</title>
       <link>https://paulparedes.pe/hyndsight/divergencia-sobre-la-comunicaci%C3%B3n-de-los-servicios-m%C3%ADnimos/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paulparedes.pe/hyndsight/divergencia-sobre-la-comunicaci%C3%B3n-de-los-servicios-m%C3%ADnimos/</guid>
-      <description>sequenceDiagram participant EMPRESA participant SINDICATO participant AUTORIDAD participant ÓRGANO INDEPENDIENTE Note over EMPRESA, SINDICATO: Servicios mínimos: &amp;lt;br/&amp;gt;-Número y ocupación trabajadores &amp;lt;br/&amp;gt;necesarios &amp;lt;br/&amp;gt;-Horarios y turnos &amp;lt;br/&amp;gt;-Periodicidad &amp;lt;br/&amp;gt;-Oportunidad EMPRESA-&amp;gt;&amp;gt;SINDICATO: Enero, comunica servicios mínimos EMPRESA-&amp;gt;&amp;gt;AUTORIDAD: Enero, comunica servicios mínimos SINDICATO-&amp;gt;&amp;gt;AUTORIDAD: Divergencia: en 30 d.n. presenta informe con observaciones SINDICATO-&amp;gt;&amp;gt;AUTORIDAD: No divergencia: aceptación tácita de la comunicación del empleador AUTORIDAD-&amp;gt;&amp;gt;ÓRGANO INDEPENDIENTE: En 10 d.h. designa al O.I. determinar servicios mínimos loop Check EMPRESA-&amp;gt;&amp;gt;EMPRESA: Si empresa no presenta, &amp;lt;br/&amp;gt;ver divergencia inmediata anterior end loop Check ÓRGANO INDEPENDIENTE-&amp;gt;&amp;gt;ÓRGANO INDEPENDIENTE: -Comunica si acepta en 10 d.</description>
+      <description>{&#34;x&#34;:{&#34;diagram&#34;:&#34;\nsequenceDiagram\nparticipant EMPRESA\nparticipant SINDICATO\nparticipant AUTORIDAD\nparticipant ÓRGANO INDEPENDIENTE\nNote over EMPRESA, SINDICATO: Servicios mínimos: -Número y ocupación trabajadores necesarios -Horarios y turnos -Periodicidad -Oportunidad\nEMPRESA-SINDICATO: Enero, comunica servicios mínimos\nEMPRESA-AUTORIDAD: Enero, comunica servicios mínimos\nSINDICATO-AUTORIDAD: Divergencia: en 30 d.n. presenta informe con observaciones\nSINDICATO-AUTORIDAD: No divergencia: aceptación tácita de la comunicación del empleador\nAUTORIDAD-ÓRGANO INDEPENDIENTE: En 10 d.h. designa al O.I. determinar servicios mínimos\nloop Check\nEMPRESA-EMPRESA: Si empresa no presenta, ver divergencia inmediata anterior\nend\nloop Check\nÓRGANO INDEPENDIENTE-ÓRGANO INDEPENDIENTE: -Comunica si acepta en 10 d.</description>
     </item>
     
   </channel>

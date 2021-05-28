@@ -1,24 +1,9 @@
-# Seminario Girona, abril 2021
-
-* [**Seminario en Máster en Razonamiento Probatorio**](https://paulparedes.github.io/slides-ah-rojos/paulparedes-seminario-girona.html#1)
-
-Exposición en el Máster de Razonamiento Probatorio sobre experiencia en el desarrollo del TFM y contenido del trabajo.
-
-* * *
-
 # Procesos laborales, PUCP, 2021-1
 
 * [**Módulo 1, clase 1**](https://paulparedes.github.io/slides-ah/TSS603-M1C1.html)
 
 Los conflictos laborales. La reforma de los procesos laborales en América Latina.
 
-* * *
-
-# Curso taller litigación oral, PUCP, enero 2021
-
- * [**Prueba y litigación oral**](https://paulparedes.github.io/slides/pucp-2021-tlo-prueba.html)
- 
-   Derecho probatorio; prueba en sentido general; argumentación sobre hechos; valoración individual y en conjunto; generalizaciones; mapas argumentativos
 
 * * *
 
@@ -54,6 +39,3 @@ El curso aborda los temes de la función jurisdiccional, los principios y fundam
    
 * * *
 
-# Próximo curso (Derecho procesal del trabajo, UNMSM, 2021-1)
-
-* * *

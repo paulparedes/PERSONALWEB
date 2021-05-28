@@ -24,7 +24,7 @@ mathjax: true
 </tr></table>
 </div>
 
-<a href="http://amzn.com/3540719164/?tag=otexts-20"><img src='/img/delderecho.jpg' width=20% align='left' style="margin-right: 20px; margin-bottom: 20px;"></a>
+<a href="https://www.marcialpons.es/media/pdf/9788491237679.pdf"><img src='/img/delderecho.jpg' width=20% align='left' style="margin-right: 20px; margin-bottom: 20px;"></a>
 
 ## Contiene ocho artículos de los siguientes autores:
 

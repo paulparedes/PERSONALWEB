@@ -7,7 +7,7 @@
 {{ $seminars_count := index .Site.Params "seminars_count" | default 3 }}
 <div class="row">
   <div class="column small-12 medium-7 large-6">
-    {{ range first $posts_count ((where .Site.RegularPages.ByDate "Section" "hyndsight").Reverse) }}
+    {{ range first $posts_count ((where .Site.RegularPages.ByDate "Section" "blog").Reverse) }}
     {{ partial "post-summary" . }}
     {{ end }}
   </div>

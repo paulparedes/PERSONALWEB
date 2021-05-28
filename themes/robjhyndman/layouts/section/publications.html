@@ -3,7 +3,7 @@
   <div class="row">
     <div style='padding: 1rem 0.9375rem 1rem;'>
 
-      <h3><a href="https://raw.githubusercontent.com/PaulParedes/materiales/master/paulparedes-cv-octubre-2020.pdf" class="badge badge-large">Curriculum Vitae&nbsp;&nbsp; <i class="fa fa-file-pdf-o"></i></a></h3>
+      <h3><a href="https://raw.githubusercontent.com/PaulParedes/materiales/master/paulparedes-cv-abril-2021.pdf" class="badge badge-large">Curriculum Vitae&nbsp;&nbsp; <i class="fa fa-file-pdf-o"></i></a></h3>
 
       <h3><a href="https://scholar.google.com/citations?user=6Uw7AQcAAAAJ" class="badge badge-large">Google Scholar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="ai ai-google-scholar"></i></a></h3>
 
@@ -14,8 +14,9 @@
       <table>
         <tbody>
           <tr>
-            <td style="background-color: #faf8f8; border-bottom: 0px;"><a href="/delderecho"><img src="{{ .Site.BaseURL }}img/delderecho.jpg" height=100></a></td>
-            <td style="background-color: #faf8f8; border-bottom: 0px;"><a href="/pruebapresunciones"><img src="{{ .Site.BaseURL }}img/pruebapresunciones.jpg" height=100></a></td>
+            <td style="background-color: #faf8f8; border-bottom: 0px;"><a href="/razonamientoprobatorio"><img src="{{ .Site.BaseURL }}img/razonamientoprobatorio.jpg" height=180></a></td>
+            <td style="background-color: #faf8f8; border-bottom: 0px;"><a href="/delderecho"><img src="{{ .Site.BaseURL }}img/delderecho.jpg" height=180></a></td>
+            <td style="background-color: #faf8f8; border-bottom: 0px;"><a href="/pruebapresunciones"><img src="{{ .Site.BaseURL }}img/pruebapresunciones.jpg" height=180></a></td>
           </tr>
         </tbody>
       </table>
@@ -24,8 +25,8 @@
 
   <div class="row">
     <div class="column small-12 medium-6">
-      <h2>Artículos en desarrollo no publicados</h2>
-      {{ range (where .Pages "Params.kind" "==" "unpublished").GroupByDate "2006" "desc" }}
+      <h2>Libros, capítulos de libros y artículos publicados</h2>
+      {{ range (where .Pages "Params.kind" "!=" "unpublished").GroupByDate "2006" "desc" }}
       <div class="row">
         <div class="column small-2 medium-2">
           <h3>{{ .Key }}</h3>
@@ -42,8 +43,8 @@
        {{ end }}
      </div>
      <div class="column small-12 medium-6">
-      <h2>Artículos y capítulos de libros publicados</h2>
-      {{ range (where .Pages "Params.kind" "!=" "unpublished").GroupByDate "2006" "desc" }}
+      <h2>Ponencias, trabajos de investigación, artículos en desarrollo</h2>
+      {{ range (where .Pages "Params.kind" "==" "unpublished").GroupByDate "2006" "desc" }}
       <div class="row">
         <div class="column small-2 medium-2">
           <h3>{{ .Key }}</h3>
