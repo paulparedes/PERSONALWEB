@@ -1,5 +1,14 @@
 # Procesos laborales, PUCP, 2021-1
 
+
+* [**Módulo 4, clase 1**](https://paulparedes.github.io/slides-ah-rojos/M4-C1-hechos-prueba-verdad.html)
+
+* [**Módulo 4, clase 2**](https://paulparedes.github.io/slides/M4-C1-hecho-prueba-verdad-segunda-parte.html)
+
+Hechos, prueba y verdad.
+
+***
+
 * [**Módulo 1, clase 1**](https://paulparedes.github.io/slides-ah/TSS603-M1C1.html)
 
 Los conflictos laborales. La reforma de los procesos laborales en América Latina.
