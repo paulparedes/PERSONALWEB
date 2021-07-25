@@ -4,7 +4,7 @@ date: 2020-06-01
 slug: facilitacion-probatoria
 title: "El principio de facilitación probatoria en el proceso laboral"
 kind: article
-citation: <em>Marcial Pons</em>.
+citation: <em>Marcial Pons</em>
 tags:
 - proceso laboral
 - razonamiento probatorio

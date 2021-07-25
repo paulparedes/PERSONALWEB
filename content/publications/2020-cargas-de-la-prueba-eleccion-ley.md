@@ -4,7 +4,7 @@ date: 2020-06-01
 slug: cargas-de-la-prueba-eleccion-ley
 title: "Las cargas de la prueba y la elección de la ley aplicable"
 kind: article
-citation: <em>Marcial Pons</em>.
+citation: <em>Marcial Pons</em>
 tags:
 - carga de la prueba
 - elección de la ley aplicable
