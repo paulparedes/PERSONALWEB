@@ -27,4 +27,4 @@ Esta conclusión es importante porque conlleva las siguientes consecuencias:
 
 3. Al no estar incursos en la carrera administrativa, si son despedidos sin mediar causa justa, les corresponde la reposición como reparación del derecho violado.
 
-La casación puede verse en el siguiente [enlace](https://drive.google.com/file/d/1jN5ZmOXSLmuNZpkP8ZlQcethlJgUVITf/view?usp=sharing)
+La casación puede verse en el siguiente [enlace](https://drive.google.com/file/d/1jN5ZmOXSLmuNZpkP8ZlQcethlJgUVITf/view?usp=sharing).

@@ -40,3 +40,5 @@ En cuanto a la modificación del artículo 60° esta consiste en imponer al empl
 
 > ***Artículo 60. Equipos para la protección<br>***
 > *Los equipos de protección personal proporcionados a los trabajadores deben cumplir con las normas técnicas peruanas; su costo es asumido en su totalidad por el empleador, sin que ello genere un costo o retención salarial de ningún tipo al personal a su cargo, con el objetivo de garantizar los medios y condiciones que protejan la vida, la salud y el bienestar de los trabajadores de los sectores público y privado, indistintamente de su régimen laboral, o si al momento de prestar servicios no se encontraban en su centro laboral, o vienen desarrollando sus labores de forma remota”.*
+
+Puede ver la versión en PDF [AQUÍ](/papers/2021-07-29-ley-31246-modifica-ley-seguridad-salud-trabajo.pdf)
