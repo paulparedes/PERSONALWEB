@@ -3,7 +3,7 @@ date: 2021-12-10
 title: "II Congreso sobre la NLPT"
 ---
 
-## Ponencia en el II Congreso sobre la Nueva Ley Procesal del Trabajo, realizada el 10 de diciembre de 2021, dirigido a los jueces laborales. El tema de la ponencia fue "El acta de infracción (de la inspección del trabajo) como elemento probatorio en el proceso laboral"
+## Ponencia en el II Congreso sobre la Nueva Ley Procesal del Trabajo, realizada el 10 de diciembre de 2021, dirigido a los jueces laborales. El tema de la ponencia fue "El acta de infracción (de la inspección del trabajo) como elemento probatorio en el proceso laboral".
 
 ## Slides
 
