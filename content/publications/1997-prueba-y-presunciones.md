@@ -9,7 +9,7 @@ tags:
 - proceso laboral
 - derecho probatorio
 - facilitación probatoria
-link: 
+link: https://mega.nz/file/pcd21Rwa#0OOtJbofPuMBkgLJ52DYn5YFtEwIZk6Bc4J93ZvZkNo
 ---
 
 Este libro corresponde a la tesis de pregrado para obtar por el título de abogado en la Pontificia Universidad Católica del Perú, la misma que fue calificada como sobresaliente por el jurado conformado por Juan Monroy Gálvez, Javier Neves Mujica y David Lovatón Palacios quien fue el asesor de la tesis.
