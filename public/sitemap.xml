@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://paulparedes.pe/seminars/2023-ejecucion-sentencias/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/seminars/</loc>
+    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/seminars/2023-03-23-baja-california/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://paulparedes.pe/tags/consignaci%C3%B3n/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,9 +26,6 @@
     <loc>https://paulparedes.pe/publications/consignacion/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://paulparedes.pe/</loc>
-    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://paulparedes.pe/publications/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,9 +33,6 @@
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/seminars/2021-ii-congreso-nlpt/</loc>
-    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://paulparedes.pe/seminars/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/pruebacientifica-materialaboral/</loc>
@@ -294,7 +300,6 @@
     <lastmod>1997-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/teaching/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://paulparedes.pe/in-the-news/</loc>
   </url><url>
