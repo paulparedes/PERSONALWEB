@@ -111,10 +111,10 @@ seminars_count = 3
   url = "/seminars/"
   weight = 4
 
-[[menu.main]]
-  name = "Slides"
-  url = "/slides/"
-  weight = 5
+#[[menu.main]]
+#  name = "Slides"
+#  url = "/slides/"
+#  weight = 5
 
 [[menu.main]]
   name = "Cursos"
