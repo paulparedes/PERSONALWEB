@@ -117,7 +117,7 @@ seminars_count = 3
 #  weight = 5
 
 [[menu.main]]
-  name = "Cursos"
+  name = "CURSO PROCESOS LABORALES"
   url = "/teaching/"
   weight = 6
 
