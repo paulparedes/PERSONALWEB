@@ -1,0 +1,133 @@
+baseurl = "https://paulparedes.pe/"
+title = "Paul Paredes"
+canonifyurls = true
+relativeurls = false
+paginate = 10
+theme = "robjhyndman"
+#DisqusShortname = "researchtips"
+#googleAnalytics = "UA-5004894-1"
+ignoreFiles = ["\\.Rmd$", "_cache$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+pluralizeListTitles = false
+buildFuture = true
+languageCode = "es-es"
+defaultContentLanguage = "es-es"
+#languageCode = "en-us"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+
+# Date format (refer to Go's date format: http://flippinggodateformat.com)
+# date_format = "2 January 2006"
+date_format = "02/01/2006"
+
+# Number of posts to show on main page.
+posts_count = 2
+
+# Number of publications to show on main page.
+pubs_count = 3
+
+# Number of seminars to show on main page.
+seminars_count = 3
+
+# options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion = "9.12.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml", "tex"]
+  highlightjsTheme = "github"
+
+[[params.social]]
+  icon = "building"
+  icon_pack = "fa"
+  link = "https://canoparedes.netlify.app/"
+  text = "Cano Paredes Abogados S.A.C., Lima, Perú."
+
+[[params.social]]
+  icon = "university"
+  icon_pack = "fa"
+  link = "https://posgrado.pucp.edu.pe/maestria/derecho-trabajo-y-de-la-seguridad-social/"
+  text = "Maestría en Derecho del Trabajo y de la Seguridad Social, Pontificia Universidad Católica del Perú."
+
+[[params.social]]
+  icon = "university"
+  icon_pack = "fa"
+  link = "http://upg.derecho.unmsm.edu.pe/"
+  text = "Unidad de Post Grado, Facultad de Derecho y Ciencias Políticas, Universidad Nacional Mayor de San Marcos."
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:pgparede@pucp.pe"
+  text = "pgparede@pucp.pe"
+
+[[params.social]]
+  icon = "twitter"
+  icon_pack = "fa"
+  link = "https://twitter.com/Paul_Paredes"
+  text = "@Paul_Paredes"
+  site = "Twitter"
+
+[[params.social]]
+  icon = "github-alt"
+  icon_pack = "fa"
+  link = "https://github.com/paulparedes/"
+  text = "paulparedes"
+  site = "GitHub"
+
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=6Uw7AQcAAAAJ&hl=es"
+  text = "Google Scholar"
+
+
+
+# Navigation Links
+# The weight parameter defines the order that the links will appear in.
+
+#[[menu.main]]
+#  name = "Blog"
+#  url = "/hyndsight/"
+#  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 1
+
+[[menu.main]]
+  name = "Publicaciones"
+  url = "/publications/"
+  weight = 2
+
+#[[menu.main]]
+#  name = "Software"
+#  url = "/software/"
+#  weight = 3
+
+[[menu.main]]
+  name = "Seminarios"
+  url = "/seminars/"
+  weight = 4
+
+[[menu.main]]
+  name = "Slides"
+  url = "/slides/"
+  weight = 5
+
+[[menu.main]]
+  name = "Cursos"
+  url = "/teaching/"
+  weight = 6
+
+#[[menu.main]]
+#  name = "Research team"
+#  url = "/research-team/"
+#  weight = 7
+
+[[menu.main]]
+  name = "Sobre mí"
+  url = "/about/"
+  weight = 8
+

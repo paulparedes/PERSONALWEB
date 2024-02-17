@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://paulparedes.pe/seminars/2023-ejecucion-sentencias/</loc>
-    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+    <loc>https://paulparedes.pe/tags/desigualdad-en-el-proceso/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/publications/silencio/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/seminars/2023-de-girona-a-peru/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/</loc>
-    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/publications/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/razonamiento-probatorio/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/seminars/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/silencio/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/valoraci%C3%B3n-probatoria/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/seminars/2023-ejecucion-sentencias/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/seminars/2023-03-23-baja-california/</loc>
@@ -26,12 +50,6 @@
     <loc>https://paulparedes.pe/publications/consignacion/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://paulparedes.pe/publications/</loc>
-    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://paulparedes.pe/tags/</loc>
-    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://paulparedes.pe/seminars/2021-ii-congreso-nlpt/</loc>
     <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -45,9 +63,6 @@
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/tags/proceso-laboral/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://paulparedes.pe/tags/razonamiento-probatorio/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/tags/teor%C3%ADa-de-la-prueba/</loc>
@@ -194,6 +209,9 @@
     <loc>https://paulparedes.pe/tags/debido-proceso/</loc>
     <lastmod>2020-04-12T19:41:56-05:00</lastmod>
   </url><url>
+    <loc>https://paulparedes.pe/publications/procesos-orales/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://paulparedes.pe/tags/nlpt/</loc>
     <lastmod>2020-04-12T19:41:56-05:00</lastmod>
   </url><url>
@@ -206,8 +224,14 @@
     <loc>https://paulparedes.pe/blog/proceso-laboral-y-distanciamiento-social-qu%C3%A9-hacer/</loc>
     <lastmod>2020-04-12T19:41:56-05:00</lastmod>
   </url><url>
+    <loc>https://paulparedes.pe/tags/procesos-laborales/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://paulparedes.pe/tags/tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-comunicaci%C3%B3n/</loc>
     <lastmod>2020-04-12T19:41:56-05:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/virtualidad/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/blog/licencia-con-goce-de-haber-durante-el-estado-de-emergencia-nacional/</loc>
     <lastmod>2020-04-06T16:24:55-05:00</lastmod>
@@ -301,10 +325,14 @@
   </url><url>
     <loc>https://paulparedes.pe/teaching/</loc>
   </url><url>
+    <loc>https://paulparedes.pe/teaching.sync-conflict-20240119-194534-5xyvsw5/</loc>
+  </url><url>
     <loc>https://paulparedes.pe/in-the-news/</loc>
   </url><url>
     <loc>https://paulparedes.pe/slides/</loc>
   </url><url>
     <loc>https://paulparedes.pe/about/</loc>
+  </url><url>
+    <loc>https://paulparedes.pe/about.sync-conflict-20240119-194530-5xyvsw5/</loc>
   </url>
 </urlset>
