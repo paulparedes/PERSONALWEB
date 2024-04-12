@@ -12,7 +12,7 @@ tags:
 slug: "esquema-proceso-ejecucion-NLPT"
 ---
 
-Puede acceder al esquema interactivo en el siguiente [enlace](https://www.paulparedes.pe/html/markmap.html).
+Puede acceder al esquema interactivo en el siguiente [enlace](https://www.paulparedes.pe/html/markmap-proceso-ejecucion.html).
 
 Puede acceder a la versión en PDF en el siguiente [enlace](https://www.paulparedes.pe/papers/esquema-proceso-ejecucion.pdf)
 
