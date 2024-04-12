@@ -12,7 +12,7 @@ tags:
 - derecho procesal de trabajo
 ---
 
-Puede acceder al esquema interactivo en [enlace](https://www.paulparedes.pe/papers/markmap.html)
+Puede acceder al esquema interactivo en [enlace](https://www.paulparedes.pe/html/markmap.html)
 
 En este artículo, Paul Paredes ofrece un análisis crítico del "Proyecto del Código Procesal del Trabajo para el Perú - CPT", presentado por el Poder Judicial el 26 de enero de 2024, con el objetivo de sustituir la Ley 29497, conocida como la Nueva Ley Procesal del Trabajo, vigente desde el año 2010. A través de un escrutinio detallado, Paredes evalúa los cambios propuestos en el proceso laboral peruano, destacando tanto sus potenciales ventajas como sus insuficiencias y áreas que requieren mejoras o reconsideraciones.
 
