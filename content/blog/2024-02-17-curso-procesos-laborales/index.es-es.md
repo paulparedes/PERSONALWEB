@@ -13,9 +13,6 @@ tags:
   - teoría de la prueba
 mathjax: yes
 ---
+Enlace a la página web del curso: **[https://procesoslaborales.paulparedes.pe](https://procesoslaborales.paulparedes.pe/)**
 
-Enlace a la página web del curso
-
-## [https://procesoslaborales.paulparedes.pe](https://procesoslaborales.paulparedes.pe/)
-
-Curso que dicta el prof. Paul Paredes sobre el proceso laboral peruano en las maestrías en Derecho del Trabajo y Seguridad Social de la PUCP y en Derecho Procesal de la UNMSM (Lima, 2024)
+Curso que dicta el prof. Paul Paredes sobre el proceso laboral peruano en las maestrías en Derecho del Trabajo y Seguridad Social de la PUCP y en Derecho Procesal de la UNMSM (Lima, 2024).
