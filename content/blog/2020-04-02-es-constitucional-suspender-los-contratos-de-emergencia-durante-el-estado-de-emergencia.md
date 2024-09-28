@@ -5,7 +5,6 @@ author: ''
 date: '2020-04-02'
 slug: es-constitucional-suspender-los-contratos-de-emergencia-durante-el-estado-de-emergencia
 categories:
-  - Opiniones
   - Derecho individual del trabajo
 tags:
   - Coronavirus

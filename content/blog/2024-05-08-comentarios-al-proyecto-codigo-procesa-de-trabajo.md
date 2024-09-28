@@ -4,7 +4,7 @@ author: ''
 date: '2024-05-08'
 slug: proyecto-codigo-procesal-del-trabajo
 categories:
-  - Opiniones
+  - Proceso laboral
 tags:
 - proyecto de Código Procesal de Trabajo
 - NLPT

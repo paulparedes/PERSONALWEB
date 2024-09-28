@@ -4,11 +4,12 @@ author: ''
 date: '2021-08-09'
 slug: []
 categories:
-  - Leyes
+  - Derecho individual del trabajo
 tags:
   - Coronavirus
   - Derecho del trabajo
   - Salud
+  - Leyes
 mathjax: yes
 ---
 

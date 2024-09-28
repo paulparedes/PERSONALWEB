@@ -9,7 +9,6 @@ image:
   preview_only: no
 lastmod: '2021-07-28T19:08:15-05:00'
 categories:
-- Leyes
 - Derecho individual del trabajo
 projects: []
 slug: ley-31246-modifica-ley-seguridad-salud-trabajo
@@ -18,6 +17,7 @@ summary: ''
 tags:
 - Seguridad
 - Salud
+- Leyes
 thanks: Ley 31246, publicada en El Peruano, el viernes 25 de junio de 2021.
 authors: []
 ---

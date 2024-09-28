@@ -8,36 +8,27 @@
     <language>es-es</language>
     <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://paulparedes.pe/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Opiniones</title>
-      <link>https://paulparedes.pe/categories/opiniones/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://paulparedes.pe/categories/opiniones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Proceso laboral</title>
       <link>https://paulparedes.pe/categories/proceso-laboral/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://paulparedes.pe/categories/proceso-laboral/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Leyes</title>
-      <link>https://paulparedes.pe/categories/leyes/</link>
-      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Razonamiento probatorio</title>
+      <link>https://paulparedes.pe/categories/razonamiento-probatorio/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://paulparedes.pe/categories/leyes/</guid>
+      <guid>https://paulparedes.pe/categories/razonamiento-probatorio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derecho individual del trabajo</title>
       <link>https://paulparedes.pe/categories/derecho-individual-del-trabajo/</link>
-      <pubDate>Wed, 28 Jul 2021 19:08:15 -0500</pubDate>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://paulparedes.pe/categories/derecho-individual-del-trabajo/</guid>
       <description></description>
@@ -53,20 +44,20 @@
     </item>
     
     <item>
-      <title>Razonamiento probatorio</title>
-      <link>https://paulparedes.pe/categories/razonamiento-probatorio/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://paulparedes.pe/categories/razonamiento-probatorio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Derecho colectivo del trabajo</title>
       <link>https://paulparedes.pe/categories/derecho-colectivo-del-trabajo/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paulparedes.pe/categories/derecho-colectivo-del-trabajo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opiniones</title>
+      <link>https://paulparedes.pe/categories/opiniones/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulparedes.pe/categories/opiniones/</guid>
       <description></description>
     </item>
     

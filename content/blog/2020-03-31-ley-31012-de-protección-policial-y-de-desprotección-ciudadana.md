@@ -4,12 +4,13 @@ author: 'Paul Paredes'
 date: '2020-03-31'
 slug: ley-31012-de-protección-policial-y-de-desprotección-ciudadana
 categories:
-  - Opiniones
+  - Derecho individual del trabajo
 tags:
   - Uso de la fuerza
   - Principio de proporcionalidad
   - Derecho a la protesta
   - Estado de emergencia
+  - Leyes
 subtitle: ''
 summary: ''
 authors: [Paul Paredes]

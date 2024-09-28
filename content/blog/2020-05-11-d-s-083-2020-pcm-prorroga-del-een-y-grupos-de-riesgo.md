@@ -13,7 +13,6 @@ image:
   preview_only: no
 lastmod: '2020-05-11T19:08:15-05:00'
 categories:
-- Opiniones
 - Derecho individual del trabajo
 projects: []
 slug: d-s-083-2020-pcm-prorroga-del-een-y-grupos-de-riesgo
