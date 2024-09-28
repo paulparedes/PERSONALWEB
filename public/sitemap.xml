@@ -2,25 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://paulparedes.pe/tags/admision-de-pruebas/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://paulparedes.pe/blog/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/categories/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://paulparedes.pe/tags/derecho-procesal-de-trabajo/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://paulparedes.pe/blog/esquema-proceso-ejecucion-nlpt/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <loc>https://paulparedes.pe/blog/ofrecimiento-pruebas-proceso-laboral/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/tags/ley-29497/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/tags/nlpt/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/ofrecimiento-de-pruebas/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/categories/opiniones/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/principio-de-contradiccion/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/proceso-laboral/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/blog/proyecto-codigo-procesal-del-trabajo/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/derecho-procesal-de-trabajo/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/tags/proyecto-de-c%C3%B3digo-procesal-de-trabajo/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paulparedes.pe/blog/esquema-proceso-ejecucion-nlpt/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/tags/proceso-de-ejecuci%C3%B3n/</loc>
@@ -29,22 +56,7 @@
     <loc>https://paulparedes.pe/categories/proceso-laboral/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://paulparedes.pe/tags/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://paulparedes.pe/blog/proyecto-codigo-procesal-del-trabajo/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://paulparedes.pe/publications/proyecto-codigo-procesal-del-trabajo/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://paulparedes.pe/categories/opiniones/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://paulparedes.pe/tags/proceso-laboral/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://paulparedes.pe/tags/proyecto-de-c%C3%B3digo-procesal-de-trabajo/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://paulparedes.pe/publications/</loc>
@@ -351,14 +363,10 @@
   </url><url>
     <loc>https://paulparedes.pe/teaching.old/</loc>
   </url><url>
-    <loc>https://paulparedes.pe/teaching.sync-conflict-20240119-194534-5xyvsw5/</loc>
-  </url><url>
     <loc>https://paulparedes.pe/in-the-news/</loc>
   </url><url>
     <loc>https://paulparedes.pe/slides/</loc>
   </url><url>
     <loc>https://paulparedes.pe/about/</loc>
-  </url><url>
-    <loc>https://paulparedes.pe/about.sync-conflict-20240119-194530-5xyvsw5/</loc>
   </url>
 </urlset>
