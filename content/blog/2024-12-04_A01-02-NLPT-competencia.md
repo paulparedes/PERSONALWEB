@@ -8,6 +8,7 @@ categories:
 tags:
 - NLPT
 - ley 29497
+- ley 32155
 - proceso laboral
 - competencia
 - reforma judicial
