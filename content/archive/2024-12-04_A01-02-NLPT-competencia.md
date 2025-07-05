@@ -2,18 +2,19 @@
 title: 'La competencia por materia en el proceso laboral peruano: impacto de la modificación introducida por la Ley 32155'
 author: 'Paul Paredes'
 date: '2024-12-04'
+draft: true
 slug: competencia-materia-proceso-laboral
 categories:
   - Proceso laboral
 tags:
-- NLPT
-- ley 29497
-- ley 32155
-- proceso laboral
-- competencia
-- reforma judicial
-- juzgados de paz letrados laborales
-- juzgados especializados de trabajon
+  - NLPT
+  - ley 29497
+  - ley 32155
+  - proceso laboral
+  - competencia
+  - reforma judicial
+  - juzgados de paz letrados laborales
+  - juzgados especializados de trabajo
 link: https://www.paulparedes.pe/papers/PAUL-PAREDES_A01-02_NLPT-competencia-materia.pdf
 ---
 

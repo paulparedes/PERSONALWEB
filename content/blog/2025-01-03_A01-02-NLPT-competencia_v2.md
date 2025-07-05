@@ -2,7 +2,7 @@
 title: 'La competencia por materia en el proceso laboral peruano: impacto de la modificación introducida por la Ley 32155.'
 author: 'Paul Paredes'
 date: '2025-01-03'
-slug: competencia-materia-proceso-laboral
+slug: competencia-materia-proceso-laboral-2
 categories:
   - Proceso laboral
 tags:
@@ -21,9 +21,9 @@ summary: "Nueva versión que incluye las últimas resoluciones administrativas d
 link: https://www.paulparedes.pe/papers/PAUL-PAREDES_A01-02_NLPT-competencia-materia-v2.pdf
 ---
 
-> **Nota:** Este post es una actualización del artículo anterior publicado el [04 de diciembre de 2024](https://www.paulparedes.pe/blog/competencia-materia-proceso-laboral/). Incluye las últimas resoluciones administrativas publicadas del Poder Judicial.
+> **Nota:** Esta actualización incluye las últimas resoluciones administrativas publicadas del Poder Judicial.
 
-Esta publicación es una actualización de mi trabajo sobre el impacto de la Ley 32155 en la competencia por materia en el proceso laboral peruano. Esta nueva versión incorpora el análisis de las recientes Resoluciones Administrativas emitidas por el Consejo Ejecutivo del Poder Judicial para precisar los alcances de dicha ley.
+Esta publicación es la actualización de un trabajo anterior sobre el impacto de la Ley 32155 en la competencia por materia en el proceso laboral peruano. Esta nueva versión incorpora el análisis de las recientes Resoluciones Administrativas emitidas por el Consejo Ejecutivo del Poder Judicial para precisar los alcances de dicha ley.
 
 Una preocupación central que emerge del análisis es la interpretación adoptada por la Resolución Administrativa N.° 000443-2024-CE-PJ, publicada el 21 de diciembre de 2024, que considera la lista de regímenes laborales especiales del sector privado del inciso 9 del artículo 1 de la NLPT como enunciativa y no taxativa. Esta interpretación genera una grave incertidumbre sobre la determinación del juez competente, pues no existe en la legislación peruana una norma que contenga un listado de regímenes laborales especiales.
 
