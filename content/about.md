@@ -19,10 +19,6 @@ Oficina: Jesús María, Lima 15072, Perú.
 
 &nbsp;
 
-## Noticias
-
-Vea aquí una lista de [noticias recientes sobre mí](/in-the-news/).
-
 ## Responsabilidades profesionales
 
   * Socio, [Cano, Paredes Abogados S.A.C.](https://canoparedes.com.pe).
