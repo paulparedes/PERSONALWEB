@@ -1,9 +1,21 @@
-.Rproj.user
+# R / RStudio
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-.DS_Store
-Thumbs.db
-.hugo_build.lock
+
+# Hugo
 /public/
 /resources/
+.hugo_build.lock
+
+# Sistema
+.DS_Store
+Thumbs.db
+.directory
+
+# Blogdown
+/blogdown/
+
+# MEGA (si usas MEGA para sincronizar)
+# .megaignore        ← déjalo si lo necesitas
