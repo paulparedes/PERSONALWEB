@@ -119,8 +119,7 @@
     <!-- JSON-LD: ScholarlyArticle (sección publications) -->
     {{ if eq .Section "publications" }}
     {{ $artSchema := dict "@context" "https://schema.org" "@type" "ScholarlyArticle" "headline" .Title "url" .Permalink "datePublished" (.Date.Format "2006-01-02") "author" (dict "@type" "Person" "name" "Paul Paredes") }}
-    {{ with .Params.citation }}{{ $artSchema = merge $artSchema (dict "isPartOf" (. | plainify)) }}{{ end }}
-    {{ with .Params.link }}{{ $artSchema = merge $artSchema (dict "sameAs" .) }}{{ end }}
+    {{ with .Params.citation }}{{ $artSchema = merge $artSchema (dict "isPartOf" (dict "@type" "CreativeWork" "publisher" (dict "@type" "Organization" "name" (. | plainify)))) }}{{ end }}
     <script type="application/ld+json">{{ $artSchema | jsonify | safeJS }}</script>
     {{ end }}
 </head>
