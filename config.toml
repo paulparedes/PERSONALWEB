@@ -88,11 +88,6 @@ seminars_count = 3
 # Navigation Links
 # The weight parameter defines the order that the links will appear in.
 
-#[[menu.main]]
-#  name = "Blog"
-#  url = "/hyndsight/"
-#  weight = 1
-
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
@@ -103,30 +98,20 @@ seminars_count = 3
   url = "/publications/"
   weight = 2
 
-#[[menu.main]]
-#  name = "Software"
-#  url = "/software/"
-#  weight = 3
-
 [[menu.main]]
   name = "Seminarios"
   url = "/seminars/"
   weight = 4
-
-#[[menu.main]]
-#  name = "Slides"
-#  url = "/slides/"
-#  weight = 5
 
 [[menu.main]]
   name = "Curso procesos laborales"
   url = "https://procesoslaborales.paulparedes.pe/"
   weight = 6
 
-#[[menu.main]]
-#  name = "Research team"
-#  url = "/research-team/"
-#  weight = 7
+[[menu.main]]
+  name = "Servicios profesionales"
+  url = "/servicios/"
+  weight = 7
 
 [[menu.main]]
   name = "Sobre mí"

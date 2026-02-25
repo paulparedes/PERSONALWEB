@@ -280,3 +280,126 @@ tr:nth-child(even) td {
   padding: 1em 1.2em;
   margin: 1.5em 0;
 }
+
+/* =================================================================
+   PÁGINA DE SERVICIOS
+   ================================================================= */
+
+.servicios-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.5rem 0 2rem;
+}
+
+@media (max-width: 640px) {
+  .servicios-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.servicio-card {
+  background: var(--pp-bg-alt);
+  border: 1px solid var(--pp-border);
+  border-radius: 6px;
+  padding: 1.2rem 1.4rem;
+  transition: border-color 0.2s ease;
+}
+
+.servicio-card:hover {
+  border-color: var(--pp-accent);
+}
+
+.servicio-icon {
+  display: block;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.servicio-icon .fa {
+  color: var(--pp-accent) !important;
+}
+
+.servicio-card h3 {
+  margin-top: 0.3rem !important;
+  margin-bottom: 0.4rem !important;
+}
+
+.servicio-card p {
+  color: var(--pp-text-light);
+  font-size: 0.9em;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.cta-contacto {
+  background: var(--pp-bg-alt);
+  border-top: 2px solid var(--pp-accent);
+  border-radius: 6px;
+  padding: 1.8rem 1.5rem;
+  margin: 2rem 0 1rem;
+  text-align: center;
+}
+
+.cta-contacto h2 {
+  border-bottom: none !important;
+  margin-bottom: 0.5rem;
+}
+
+.cta-contacto > p {
+  color: var(--pp-text-light);
+  margin-bottom: 1.2rem;
+}
+
+.cta-botones {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.btn-whatsapp,
+.btn-calendly {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  font-family: 'Fira Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border-bottom: none !important;
+  color: #FFFFFF !important;
+  transition: opacity 0.2s ease;
+}
+
+.btn-whatsapp {
+  background-color: #25D366;
+}
+
+.btn-calendly {
+  background-color: var(--pp-primary);
+}
+
+.btn-whatsapp:hover,
+.btn-calendly:hover {
+  color: #FFFFFF !important;
+  opacity: 0.88;
+}
+
+.btn-whatsapp .fa,
+.btn-calendly .fa {
+  color: #FFFFFF !important;
+}
+
+.cta-info {
+  font-size: 0.85rem;
+  color: var(--pp-text-light) !important;
+  margin-top: 0.8rem;
+}
+
+.cta-info .fa {
+  color: var(--pp-text-light) !important;
+}
