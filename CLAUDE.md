@@ -11,11 +11,13 @@ hugo --gc --minify      # production build (output → public/)
 
 `/public/` is gitignored — never commit it. Deploy happens automatically via Netlify on push to `main`.
 
-**Netlify caveat**: `netlify.toml` pins `HUGO_VERSION = '0.118.2'` but the local install is 0.146. If a build works locally but fails on Netlify, the version gap is the likely cause.
+**Netlify Hugo version**: `netlify.toml` pins `HUGO_VERSION = '0.146.0'`, matching the local install. Keep these in sync — a version gap causes silent build failures on Netlify.
 
 ## Architecture
 
 This is a Hugo static site for a Peruvian labor lawyer (paulparedes.pe), built on the `robjhyndman` theme (a fork of hugo-finite).
+
+**Canonical URL**: `https://www.paulparedes.pe/` — Netlify redirects non-www → www, so `baseurl` in `config.toml` **must** be `https://www.paulparedes.pe/`. If it's set to non-www, canonicals point to a redirecting URL and Google Search Console reports indexing errors.
 
 **Customization layer** — only two files override the theme:
 - `layouts/_default/baseof.html` — master template: SEO meta, Open Graph, Twitter Cards, og:image/twitter:image, canonical URL, GA4 (G-JW93WF08Z3), JSON-LD schemas (Person global; BlogPosting, ScholarlyArticle, conditional by section), responsive Foundation navbar, MathJax (conditional on `mathjax: true` in front matter)
