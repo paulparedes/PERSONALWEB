@@ -1,5 +1,6 @@
 ---
 title: "Sobre mí"
+description: "Paul Paredes, abogado litigante y profesor universitario. Especialista en proceso laboral, razonamiento probatorio y teoría de la prueba. Lima, Perú."
 ---
 
 La siguiente biografía y [**únicamente esta foto**](/img/DSC_5404_ppp.jpg) pueden ser usadas en la prensa sin necesidad de una autorización adicional.

@@ -1,10 +1,10 @@
 ---
 title: "Servicios profesionales"
-description: "Asesoría y representación legal para trabajadores y sindicatos en Lima, Perú."
+description: "Abogado laboralista en Lima, Perú. Representación legal en despidos, arbitraje laboral, negociación colectiva, sector minero, ceses colectivos y procesos judiciales bajo la NLPT."
 type: "page"
 ---
 
-Abogado litigante con más de veinte años de experiencia en derecho del trabajo. Asesoro y represento a trabajadores y organizaciones sindicales en procesos judiciales, arbitrales y administrativos. Ejerzo también como árbitro laboral y consultor en materias de derecho del trabajo, negociación colectiva y justicia laboral para organismos nacionales e internacionales.
+Abogado litigante con más de veinte años de experiencia en derecho del trabajo, con cobertura a nivel nacional. Asesoro y represento a trabajadores y organizaciones sindicales en procesos judiciales, arbitrales y administrativos. Ejerzo también como árbitro laboral y consultor en materias de derecho del trabajo, negociación colectiva y justicia laboral para organismos nacionales e internacionales.
 
 ---
 
@@ -85,3 +85,38 @@ Abogado litigante con más de veinte años de experiencia en derecho del trabajo
     Toda consulta es estrictamente confidencial.
   </p>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Paul Paredes — Servicios Legales",
+  "url": "https://paulparedes.pe/servicios/",
+  "provider": {
+    "@type": "Person",
+    "name": "Paul Paredes",
+    "url": "https://paulparedes.pe"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Perú"
+  },
+  "serviceType": [
+    "Despido y reposición",
+    "Arbitraje laboral",
+    "Negociación colectiva",
+    "Proceso judicial laboral (NLPT)",
+    "Ceses colectivos",
+    "Procesos constitucionales laborales",
+    "Procedimientos administrativos laborales",
+    "Daños y perjuicios laborales"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Lima",
+    "addressCountry": "PE"
+  },
+  "telephone": "+51999968007",
+  "email": "paul.paredes@canoparedes.com.pe"
+}
+</script>

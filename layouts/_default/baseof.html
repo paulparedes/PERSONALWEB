@@ -11,7 +11,7 @@
       {{ with .Summary }}
         <meta name="description" content="{{ . | plainify | truncate 160 }}">
       {{ else }}
-        <meta name="description" content="Paul Paredes - Abogado laboralista, profesor e investigador en razonamiento probatorio. Lima, Perú.">
+        <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ else }}Paul Paredes - Abogado laboralista, profesor e investigador en razonamiento probatorio. Lima, Perú.{{ end }}">
       {{ end }}
     {{ end }}
 
@@ -49,6 +49,11 @@
       {{ end }}
     {{ end }}
 
+    <!-- Social image -->
+    {{ $ogImage := .Params.image | default "img/pgpp.png" }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ $ogImage }}">
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $ogImage }}">
+
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preload" href="{{ .Site.BaseURL }}fonts/academicons.ttf?v=1.7.0" as="font">
@@ -69,6 +74,71 @@
     <link rel="manifest" href="/site.webmanifest">
     <!-- Paleta revitalizada 2026 -->
     <link rel="stylesheet" href="/css/paulparedes-custom.css">
+
+    <!-- JSON-LD: Person (global) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Paul Paredes",
+      "url": "https://paulparedes.pe",
+      "jobTitle": "Abogado laboralista",
+      "description": "Abogado litigante en causas de trabajadores y sindicatos. Especialista en proceso laboral, arbitraje laboral, negociación colectiva y razonamiento probatorio. Lima, Perú.",
+      "knowsAbout": [
+        "Derecho del trabajo", "Proceso laboral", "Arbitraje laboral",
+        "Negociación colectiva", "Razonamiento probatorio", "Teoría de la prueba",
+        "Derecho minero laboral", "Nueva Ley Procesal del Trabajo"
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Cano Paredes Abogados S.A.C.",
+        "url": "https://canoparedes.netlify.app/"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lima",
+        "addressCountry": "PE"
+      },
+      "sameAs": [
+        "https://twitter.com/Paul_Paredes",
+        "https://github.com/paulparedes/",
+        "https://scholar.google.com/citations?user=6Uw7AQcAAAAJ&hl=es",
+        "https://orcid.org/0000-0002-6813-9813"
+      ]
+    }
+    </script>
+
+    <!-- JSON-LD: BlogPosting (sección blog) -->
+    {{ if eq .Section "blog" }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ .Title | jsonify }},
+      "url": {{ .Permalink | jsonify }},
+      "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
+      "dateModified": {{ .Lastmod.Format "2006-01-02" | jsonify }},
+      "author": { "@type": "Person", "name": "Paul Paredes" },
+      "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | truncate 160 | jsonify }}{{ end }}
+    }
+    </script>
+    {{ end }}
+
+    <!-- JSON-LD: ScholarlyArticle (sección publications) -->
+    {{ if eq .Section "publications" }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": {{ .Title | jsonify }},
+      "url": {{ .Permalink | jsonify }},
+      "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
+      "author": { "@type": "Person", "name": "Paul Paredes" }
+      {{ with .Params.citation }}, "isPartOf": {{ . | plainify | jsonify }}{{ end }}
+      {{ with .Params.link }}, "sameAs": {{ . | jsonify }}{{ end }}
+    }
+    </script>
+    {{ end }}
 </head>
   <body>
     <header>

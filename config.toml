@@ -19,6 +19,7 @@ pagerSize = 10
 unsafe= true
 
 [params]
+description = "Paul Paredes, abogado laboralista en Lima, Perú. Representación legal de trabajadores y sindicatos en procesos judiciales, arbitraje laboral y negociación colectiva."
 
 # Date format (refer to Go's date format: http://flippinggodateformat.com)
 # date_format = "2 January 2006"
