@@ -81,6 +81,7 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
+      "@id": "https://paulparedes.pe/#person",
       "name": "Paul Paredes",
       "url": "https://paulparedes.pe",
       "jobTitle": "Abogado laboralista",
@@ -112,13 +113,13 @@
     <!-- JSON-LD: BlogPosting (sección blog) -->
     {{ if eq .Section "blog" }}
     {{ $desc := .Summary | plainify | truncate 160 }}{{ with .Description }}{{ $desc = . }}{{ end }}
-    {{ $blogSchema := dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "url" .Permalink "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" "Paul Paredes" "url" "https://paulparedes.pe") "description" $desc }}
+    {{ $blogSchema := dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "url" .Permalink "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "@id" "https://paulparedes.pe/#person" "name" "Paul Paredes" "url" "https://paulparedes.pe") "description" $desc }}
     <script type="application/ld+json">{{ $blogSchema | jsonify | safeJS }}</script>
     {{ end }}
 
     <!-- JSON-LD: ScholarlyArticle (sección publications) -->
     {{ if eq .Section "publications" }}
-    {{ $artSchema := dict "@context" "https://schema.org" "@type" "ScholarlyArticle" "headline" .Title "url" .Permalink "datePublished" (.Date.Format "2006-01-02") "author" (dict "@type" "Person" "name" "Paul Paredes" "url" "https://paulparedes.pe") }}
+    {{ $artSchema := dict "@context" "https://schema.org" "@type" "ScholarlyArticle" "headline" .Title "url" .Permalink "datePublished" (.Date.Format "2006-01-02") "author" (dict "@type" "Person" "@id" "https://paulparedes.pe/#person" "name" "Paul Paredes" "url" "https://paulparedes.pe") }}
     {{ with .Params.citation }}{{ $artSchema = merge $artSchema (dict "isPartOf" (dict "@type" "CreativeWork" "publisher" (dict "@type" "Organization" "name" (. | plainify)))) }}{{ end }}
     <script type="application/ld+json">{{ $artSchema | jsonify | safeJS }}</script>
     {{ end }}
