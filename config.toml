@@ -1,4 +1,4 @@
-baseurl = "https://paulparedes.pe/"
+baseurl = "https://www.paulparedes.pe/"
 title = "Paul Paredes"
 # canonifyurls = true  # deprecated desde Hugo 0.121.0; reemplazado por <link rel="canonical">
 relativeurls = false
