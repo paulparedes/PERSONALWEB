@@ -3,7 +3,7 @@ author: Paul Paredes
 date: 2021-08-24
 slug: prueba-cientifica-materia-laboral
 title: "El uso de la prueba científica por parte de la Suprema Corte de Justicia de la Nación en materia laboral"
-kind: book
+pubkind: book
 citation: <em>Centro de Estudios Constitucionales</em>
 tags:
 - proceso laboral

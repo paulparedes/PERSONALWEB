@@ -4,7 +4,7 @@ status:
 date: 2025-05-17
 slug: pretension-principal-unica
 title: "La pretensión principal única en la Nueva Ley Procesal del Trabajo: origen, conflicto interpretativo y crítica al atomismo procesal"
-kind: unpublished
+pubkind: unpublished
 citation: <em>paulparedes</em>
 tags:
 - ley 32155

@@ -1,17 +1,19 @@
 baseurl = "https://paulparedes.pe/"
 title = "Paul Paredes"
-canonifyurls = true
+# canonifyurls = true  # deprecated desde Hugo 0.121.0; reemplazado por <link rel="canonical">
 relativeurls = false
-paginate = 10
 theme = "robjhyndman"
 #DisqusShortname = "researchtips"
-#googleAnalytics = "UA-5004894-1"
+googleAnalytics = "G-JW93WF08Z3"
 ignoreFiles = ["\\.Rmd$", "_cache$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 pluralizeListTitles = false
 buildFuture = true
-languageCode = "es-es"
-defaultContentLanguage = "es-es"
+languageCode = "es"
+defaultContentLanguage = "es"
 #languageCode = "en-us"
+
+[pagination]
+pagerSize = 10
 
 [markup.goldmark.renderer]
 unsafe= true
@@ -117,8 +119,8 @@ seminars_count = 3
 #  weight = 5
 
 [[menu.main]]
-  name = "CURSO PROCESOS LABORALES"
-  url = "/teaching/"
+  name = "Curso procesos laborales"
+  url = "https://procesoslaborales.paulparedes.pe/"
   weight = 6
 
 #[[menu.main]]

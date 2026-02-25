@@ -2,7 +2,7 @@
 title: D.S. 083-2020-PCM o la libertad de enfermarse (y eventualmente morir) sin responsabilidad
   para el empleador, en nombre de la libertad de contrato
 author: "Paul Paredes"
-date: "11 de mayo de 2020"
+date: "2020-05-11"
 output:
   word_document: default
   pdf_document: default

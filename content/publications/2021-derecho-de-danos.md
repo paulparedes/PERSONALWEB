@@ -4,7 +4,7 @@ status:
 date: 2021-05-01
 slug: derecho-de-danos
 title: "Derecho de daños"
-kind: unpublished
+pubkind: unpublished
 citation: <em>Bookdown</em>
 tags:
 - derecho de daños

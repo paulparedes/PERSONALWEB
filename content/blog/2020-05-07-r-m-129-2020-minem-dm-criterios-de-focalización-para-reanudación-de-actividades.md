@@ -2,7 +2,7 @@
 title: 'R.M. 129-2020-MINEM/DM: criterios de focalización territorial para reanudación
   de actividades en la gran minería'
 author: ''
-date: '9 de mayo de 2020'
+date: '2020-05-09'
 output: word_document
 image:
   caption: ''

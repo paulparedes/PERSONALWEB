@@ -1,7 +1,7 @@
 ---
 title: 'D.S. 011-2020-TR: reglamento del D.U. 038-2020 sobre suspensión perfecta'
 author: 'Paul Paredes'
-date: '21 de abril de 2020'
+date: '2020-04-21'
 output: pdf_document
 featured: no
 fontsize: 12pt

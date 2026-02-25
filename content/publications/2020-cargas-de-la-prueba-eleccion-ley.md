@@ -3,7 +3,7 @@ author: Dale A. Nance (trad. Paul Paredes)
 date: 2020-06-01
 slug: cargas-de-la-prueba-eleccion-ley
 title: "Las cargas de la prueba y la elección de la ley aplicable"
-kind: article
+pubkind: article
 citation: <em>Marcial Pons</em>
 tags:
 - carga de la prueba

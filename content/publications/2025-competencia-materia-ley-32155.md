@@ -4,7 +4,7 @@ status:
 date: 2025-01-03
 slug: competencia-materia-ley-32155
 title: "La competencia por materia en el proceso laboral peruano: impacto de la modificación introducida por la Ley 32155"
-kind: unpublished
+pubkind: unpublished
 citation: <em>paulparedes</em>
 tags:
 - ley 32155

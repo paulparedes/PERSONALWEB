@@ -4,7 +4,7 @@ status:
 date: 2011-03-28
 slug: formación-fundamentos-nueva-ley-procesal-trabajo
 title: "Formación y fundamentos de la Nueva Ley Procesal del Trabajo"
-kind: unpublished
+pubkind: unpublished
 citation: <em>Academia</em>
 tags:
 - proceso laboral

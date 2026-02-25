@@ -4,7 +4,7 @@ status:
 date: 2020-04-12
 slug: procesos-orales
 title: "El reto de los procesos (laborales) orales ante las medidas sanitarias de distanciamiento social: Hacia una justicia en línea"
-kind: unpublished
+pubkind: unpublished
 citation: <em>paulparedes</em>
 tags:
 - oralidad

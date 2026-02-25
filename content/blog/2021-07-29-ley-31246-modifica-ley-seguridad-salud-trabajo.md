@@ -1,7 +1,7 @@
 ---
 title: Ley 31246. Modifica la Ley 29783, Ley de Seguridad y Salud en el Trabajo
 author: "Paul Paredes"
-date: "28 de julio de 2021"
+date: "2021-07-28"
 featured: no
 image:
   caption: ''

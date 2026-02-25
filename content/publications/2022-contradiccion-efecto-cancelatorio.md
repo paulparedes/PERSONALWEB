@@ -4,7 +4,7 @@ status:
 date: 2022-03-08
 slug: consignacion
 title: "La contradicción del efecto cancelatorio de la consignación de una de una deuda laboral"
-kind: unpublished
+pubkind: unpublished
 citation: <em>paulparedes</em>
 tags:
 - consignación

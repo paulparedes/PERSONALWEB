@@ -2,7 +2,7 @@
 title: 'R.M. 128-2020-MINEM/DM: protocolo sanitario para minería, hidrocarburos y
   electricidad'
 author: ''
-date: '9 de mayo de 2020'
+date: '2020-05-09'
 categories:
   - Derecho individual del trabajo
 tags:

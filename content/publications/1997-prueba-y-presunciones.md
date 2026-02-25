@@ -3,7 +3,7 @@ author: Paul Paredes
 date: 1997-04-01
 slug: prueba-y-presunciones
 title: "Prueba y presunciones en el proceso laboral"
-kind: book
+pubkind: book
 citation: <em>ARA Editores</em>
 tags:
 - proceso laboral

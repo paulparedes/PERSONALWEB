@@ -4,7 +4,7 @@ status:
 date: 2018-03-28
 slug: TFM-principio-facilitacion-probatoria-laboral
 title: "El principio de facilitación probatoria en el proceso laboral"
-kind: unpublished
+pubkind: unpublished
 citation: <em>Universidad de Girona / Universidad de Génova</em>
 tags:
 - facilitación probatoria

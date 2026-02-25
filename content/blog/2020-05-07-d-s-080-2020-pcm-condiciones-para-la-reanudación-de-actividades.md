@@ -1,7 +1,7 @@
 ---
 title: 'D.S. 080-2020-PCM: condiciones para la reanudación de actividades'
 author: ''
-date: '9 de mayo de 2020'
+date: '2020-05-09'
 output:
   word_document: default
   pdf_document: default

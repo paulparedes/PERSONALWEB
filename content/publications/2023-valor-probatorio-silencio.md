@@ -4,7 +4,7 @@ status:
 date: 2023-09-04
 slug: silencio
 title: "El valor probatorio del silencio en contextos de desigualdad material"
-kind: unpublished
+pubkind: unpublished
 citation: <em>paulparedes</em>
 tags:
 - silencio

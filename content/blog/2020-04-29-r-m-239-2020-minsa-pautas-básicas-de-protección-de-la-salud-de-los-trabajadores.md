@@ -3,7 +3,7 @@ title: 'R. M. 239-2020-MINSA (ACTUALIZADA CON R.M. 265-2020-MINSA): lineamientos
   la vigilancia, prevención y control de la salud de los trabajadores con riesgo de
   exposición a COVID-19'
 author: PaulParedes
-date: '9 de mayo de 2020'
+date: '2020-05-09'
 categories:
   - Derecho individual del trabajo
 tags:

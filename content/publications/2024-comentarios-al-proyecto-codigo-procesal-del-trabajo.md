@@ -4,7 +4,7 @@ status:
 date: 2024-04-01
 slug: proyecto-codigo-procesal-del-trabajo
 title: "Comentarios al Proyecto del Código Procesal del Trabajo para el Perú - CPT"
-kind: unpublished
+pubkind: unpublished
 citation: <em>paulparedes</em>
 tags:
 - proyecto de Código Procesal de Trabajo

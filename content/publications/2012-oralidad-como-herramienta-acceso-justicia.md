@@ -4,7 +4,7 @@ status:
 date: 2012-10-26
 slug: oralidad-herramienta-acceso-justicia
 title: "La oralidad como herramienta para el acceso a la justicia en el nuevo proceso laboral peruano"
-kind: unpublished
+pubkind: unpublished
 citation: <em>SPDTSS</em>
 tags:
 - proceso laboral
