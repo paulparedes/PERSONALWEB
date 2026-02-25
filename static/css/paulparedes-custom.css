@@ -1,0 +1,282 @@
+/*
+ * ============================================================
+ *  paulparedes-custom.css
+ *  Identidad visual Paul Paredes — Paleta revitalizada 2026
+ *  Versión 4 — Merriweather en títulos + navbar limpio
+ * ============================================================
+ *  Ubicación: static/css/paulparedes-custom.css
+ * ============================================================
+ */
+
+/* ----- Variables de la paleta ----- */
+:root {
+  --pp-primary:    #1E3A5F;
+  --pp-accent:     #C49332;
+  --pp-bg:         #F7F5F0;
+  --pp-contrast:   #9B3B2D;
+  --pp-secondary:  #3D7A8A;
+  --pp-support:    #6B7B6E;
+  --pp-text:       #2C2C2C;
+  --pp-text-light: #5A5A5A;
+  --pp-border:     #D4CFC6;
+  --pp-bg-alt:     #EDEAE4;
+}
+
+/* =================================================================
+   FONDO GENERAL
+   ================================================================= */
+
+body {
+  background-color: var(--pp-bg) !important;
+  color: var(--pp-text) !important;
+}
+
+/* =================================================================
+   TÍTULOS — Merriweather Black, compacto, color intenso
+   ================================================================= */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', Georgia, 'Times New Roman', serif !important;
+  color: var(--pp-primary) !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em !important;
+}
+
+h1 {
+  font-size: 1.5em !important;
+  line-height: 1.3em !important;
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 1.25em !important;
+  line-height: 1.3em !important;
+  border-bottom: 1px solid var(--pp-accent);
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.1em !important;
+  line-height: 1.3em !important;
+}
+
+h4, h5, h6 {
+  font-size: 1em !important;
+}
+
+/* =================================================================
+   NAVEGACIÓN — Fira Sans solo aquí (sans-serif para UI)
+   ================================================================= */
+
+/* Fondo de toda la barra */
+.nav-bar,
+.top-bar,
+.title-bar {
+  background-color: var(--pp-primary) !important;
+}
+
+/* Eliminar fondo gris de Foundation en todos los elementos */
+.top-bar .menu,
+.top-bar .menu li,
+.top-bar .menu a,
+.top-bar-left,
+.top-bar-left .menu,
+.top-bar-left .menu li,
+.top-bar-left .menu a,
+.top-bar-right,
+.top-bar-title {
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
+/* Título del sitio */
+.top-bar-title a,
+.title-bar-title a,
+.site-title a {
+  color: #FFFFFF !important;
+  font-family: 'Fira Sans', 'Helvetica Neue', sans-serif !important;
+  font-weight: 700 !important;
+}
+
+/* Links del menú */
+.top-bar .menu a,
+.top-bar-left .menu a {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-family: 'Fira Sans', 'Helvetica Neue', sans-serif !important;
+  font-weight: 400 !important;
+}
+
+.top-bar .menu a:hover,
+.top-bar-left .menu a:hover {
+  color: var(--pp-accent) !important;
+  background: transparent !important;
+}
+
+/* Menú móvil */
+.title-bar {
+  background-color: var(--pp-primary) !important;
+}
+
+.title-bar .menu a,
+.title-bar-title a {
+  font-family: 'Fira Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+.site-hamburger,
+.site-hamburger .fa {
+  color: #FFFFFF !important;
+}
+
+/* Menú desplegable en móvil */
+.menu.vertical a {
+  color: rgba(255, 255, 255, 0.85) !important;
+  background: transparent !important;
+  font-family: 'Fira Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+.menu.vertical a:hover {
+  color: var(--pp-accent) !important;
+  background: transparent !important;
+}
+
+/* Panel del menú responsive */
+#site-menu {
+  background-color: var(--pp-primary) !important;
+}
+
+/* =================================================================
+   ENLACES — Azul profundo, dorado al hover
+   ================================================================= */
+
+a {
+  color: var(--pp-primary) !important;
+}
+
+a:hover {
+  color: var(--pp-accent) !important;
+}
+
+/* Enlaces dentro de contenido */
+.post-content a,
+.entry-content a,
+article a {
+  color: var(--pp-primary) !important;
+  border-bottom: 1px dotted var(--pp-border);
+}
+
+.post-content a:hover,
+.entry-content a:hover,
+article a:hover {
+  color: var(--pp-accent) !important;
+  border-bottom-color: var(--pp-accent);
+}
+
+/* =================================================================
+   ICONOS
+   ================================================================= */
+
+.fa, .ai {
+  color: var(--pp-primary) !important;
+}
+
+/* =================================================================
+   BLOQUES DE CITA
+   ================================================================= */
+
+blockquote {
+  color: var(--pp-text) !important;
+  background: var(--pp-bg-alt) !important;
+  border-left: 4px solid var(--pp-accent) !important;
+  margin: 1.5em 10px !important;
+  padding: 0.5em 10px !important;
+  font-style: normal !important;
+}
+
+blockquote p {
+  color: var(--pp-text) !important;
+}
+
+/* =================================================================
+   SEPARADORES
+   ================================================================= */
+
+hr {
+  border-top: 1px solid var(--pp-accent) !important;
+}
+
+/* =================================================================
+   TABLAS
+   ================================================================= */
+
+th {
+  background-color: var(--pp-primary) !important;
+  color: #FFFFFF !important;
+  font-family: 'Fira Sans', sans-serif !important;
+  font-size: 0.9em;
+}
+
+tr:nth-child(even) td {
+  background-color: var(--pp-bg-alt);
+}
+
+/* =================================================================
+   FOOTER
+   ================================================================= */
+
+.endofpage {
+  background-color: var(--pp-primary) !important;
+  border-top: 3px solid var(--pp-accent);
+  padding: 0.2em 0 0.2em 0 !important;
+}
+
+.endofpage footer,
+.endofpage #footer,
+.endofpage section.wrapper,
+.endofpage section.wrapper.small {
+  background-color: var(--pp-primary) !important;
+  background: var(--pp-primary) !important;
+  border-top: none !important;
+}
+
+.endofpage,
+.endofpage footer,
+.endofpage section,
+.endofpage section.wrapper.small {
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+.endofpage a,
+.endofpage footer a,
+.endofpage section a,
+.endofpage .wrapper a {
+  color: var(--pp-accent) !important;
+  border-bottom: none !important;
+}
+
+.endofpage a:hover,
+.endofpage footer a:hover {
+  color: #FFFFFF !important;
+}
+
+/* =================================================================
+   CLASES UTILITARIAS
+   ================================================================= */
+
+.accent {
+  color: var(--pp-accent) !important;
+}
+
+.teal {
+  color: var(--pp-secondary) !important;
+}
+
+.alert-text {
+  color: var(--pp-contrast) !important;
+}
+
+.highlight-box {
+  background: var(--pp-bg-alt);
+  border-left: 4px solid var(--pp-accent);
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+}
