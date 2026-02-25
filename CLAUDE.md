@@ -18,7 +18,7 @@ hugo --gc --minify      # production build (output → public/)
 This is a Hugo static site for a Peruvian labor lawyer (paulparedes.pe), built on the `robjhyndman` theme (a fork of hugo-finite).
 
 **Customization layer** — only two files override the theme:
-- `layouts/_default/baseof.html` — master template: SEO meta, Open Graph, Twitter Cards, canonical URL, GA4 (G-JW93WF08Z3), responsive Foundation navbar, MathJax (conditional on `mathjax: true` in front matter)
+- `layouts/_default/baseof.html` — master template: SEO meta, Open Graph, Twitter Cards, og:image/twitter:image, canonical URL, GA4 (G-JW93WF08Z3), JSON-LD schemas (Person global; BlogPosting, ScholarlyArticle, conditional by section), responsive Foundation navbar, MathJax (conditional on `mathjax: true` in front matter)
 - `static/css/paulparedes-custom.css` — full visual identity override loaded last; defines all CSS variables
 
 **CSS variables** (use these, not hex values directly):
@@ -52,6 +52,34 @@ Markdown renderer has `unsafe = true` — HTML can be embedded directly in `.md`
 ## Navigation Menu
 
 Defined in `config.toml` as `[[menu.main]]` entries with `weight` values. Current weights: Blog=1, Publicaciones=2, Seminarios=4, Curso=6, Servicios=7, Sobre mí=8. Leave gaps to allow insertions.
+
+## JSON-LD Schemas
+
+Three schemas live in `baseof.html`; one is inline in content:
+
+| Schema | Location | Condition |
+|---|---|---|
+| `Person` | `baseof.html` | all pages |
+| `BlogPosting` | `baseof.html` | `eq .Section "blog"` |
+| `ScholarlyArticle` | `baseof.html` | `eq .Section "publications"` |
+| `LegalService` | `content/servicios.md` | hardcoded inline |
+
+**Critical gotchas** — do not skip these:
+
+1. **`<script>` JS context double-escaping**: Hugo's `html/template` treats `<script>` content as JavaScript. Inline template vars like `{{ .Title | jsonify }}` get double-escaped. Always build schemas as a `dict` and output with `jsonify | safeJS`:
+   ```go-html-template
+   {{ $s := dict "@type" "BlogPosting" "headline" .Title ... }}
+   <script type="application/ld+json">{{ $s | jsonify | safeJS }}</script>
+   ```
+
+2. **`og:image` type guard**: some posts have `image` in front matter as a map/struct (not a string). Using `.Params.image` directly renders as `map[caption: ...]`. Always guard with:
+   ```go-html-template
+   {{ $ogImage := "img/pgpp.png" }}
+   {{ if and .Params.image (eq (printf "%T" .Params.image) "string") }}{{ $ogImage = .Params.image }}{{ end }}
+   ```
+   Note: `kindIs` does not exist in Hugo — use `printf "%T"`.
+
+3. **`@id` for author disambiguation**: the `Person` block uses `"@id": "https://paulparedes.pe/#person"`. The `author` object in `BlogPosting` and `ScholarlyArticle` repeats this same `@id` so Google links them as the same entity across pages.
 
 ## Theme Layouts
 
