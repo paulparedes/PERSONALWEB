@@ -105,8 +105,8 @@ seminars_count = 3
   weight = 4
 
 [[menu.main]]
-  name = "Curso procesos laborales"
-  url = "https://procesoslaborales.paulparedes.pe/"
+  name = "Cursos"
+  url = "/cursos/"
   weight = 6
 
 [[menu.main]]
