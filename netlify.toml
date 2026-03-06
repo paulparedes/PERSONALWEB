@@ -4,6 +4,7 @@ publish = 'public'
 
 [build.environment]
 HUGO_VERSION = '0.146.0'
+NODE_VERSION = '22'
 
 [context]
 [context.branch-deploy]
@@ -15,6 +16,9 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
+
+# Redireccionamiento canónico: todo a https://www.paulparedes.pe/
+# Las tres reglas cubren: http sin www, https sin www, http con www
 
 [[redirects]]
   from = "https://paulparedes.pe/*"
