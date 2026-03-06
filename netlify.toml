@@ -15,3 +15,21 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
+
+[[redirects]]
+  from = "https://paulparedes.pe/*"
+  to   = "https://www.paulparedes.pe/:splat"
+  status = 301
+  force  = true
+
+[[redirects]]
+  from = "http://paulparedes.pe/*"
+  to   = "https://www.paulparedes.pe/:splat"
+  status = 301
+  force  = true
+
+[[redirects]]
+  from = "http://www.paulparedes.pe/*"
+  to   = "https://www.paulparedes.pe/:splat"
+  status = 301
+  force  = true
