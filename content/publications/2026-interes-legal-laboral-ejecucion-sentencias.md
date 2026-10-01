@@ -32,3 +32,14 @@ un capital que no se pagó completo. Con un caso numérico muestro cuánto está
 en juego y por qué el modo usual convierte al trabajador en financista gratuito de 
 su empleador.
 
+Los invito a leer el análisis completo en cualquiera de los siguientes enlaces:
+
+[paulparedes](https://www.paulparedes.pe/papers/PAUL-PAREDES-interes-legal-laboral-ejecucion-sentencias.pdf)
+
+[Zenodo](https://doi.org/10.5281/zenodo.23089199)
+
+Se sugiere citarlo del siguiente modo:
+
+Paredes Palacios, P. (2026). La imputación del pago en la ejecución de sentencias laborales y el artículo 1257 del Código Civil. Zenodo. <https://doi.org/10.5281/zenodo.23089199>
+
+#ProcesoLaboral #NLPT #ImputaciónDelPago #InterésLegalLaboral #Anatocismo #EjecuciónDeSentencias #DecretoLey25920 #art.1257CC
